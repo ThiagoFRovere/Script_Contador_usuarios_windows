@@ -1,0 +1,1 @@
+# Script_Contador_usuarios_windows
