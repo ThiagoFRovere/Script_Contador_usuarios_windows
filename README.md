@@ -38,10 +38,4 @@ Edite o array abaixo para incluir ou remover usuários administrativos:
 ```powershell
 $manutencao = @('usuario1','usuario2','administrator')
 
-## 📄 Requisitos
 
-Windows Server ou Windows com suporte a quser
-
-Execução com privilégios administrativos
-
-PowerShell 5.1 ou superior
